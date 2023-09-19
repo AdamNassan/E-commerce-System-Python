@@ -1,0 +1,8 @@
+Product_id;Product_name;Product_category;Price;Inventory;Supplier;Has_an_Offer;Offer_price;Valid_until
+012901;Orange Juice Bottles;Juice;3;400;JuiceComp;1;1;20/10/2023
+012902;Banana;fruit;5;400;VegFruitComp;0;;
+012903;Hp Laptop;Laptop;1500;250;Hp;1;1200;6/7/2023
+012904;LG Fridge;Fridge;1000;100;LG;1;750;22/1/2023
+012905;Iphone;Phone;2000;120;Apple;0;;
+
+

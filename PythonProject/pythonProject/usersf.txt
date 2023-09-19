@@ -1,0 +1,38 @@
+User ID: 120356
+User Name: Adam Nassan
+Date of Birth: 2022-01-20
+Role: admin
+Active: Yes
+
+User ID: 012901
+User Name: Ahmad Hussam
+Date of Birth: 2022-01-19
+Role: shopper
+Active: Yes
+Basket: {'012901': 20, '012903': 2}
+Order: 0
+
+User ID: 654655
+User Name: Ahmad sami
+Date of Birth: 2022-01-19
+Role: shopper
+Active: No
+Basket: {'012904': 1, '012905': 3, '012902': 30}
+Order: 1
+
+User ID: 334652
+User Name: Laila
+Date of Birth: 2022-03-19
+Role: shopper
+Active: No
+Basket: {}
+Order: 0
+
+User ID: 666666
+User Name: khalid
+Date of Birth: 2002-02-02
+Role: shopper
+Active: Yes
+Basket: {'123456': '20', '012903': 4}
+Order: 0
+

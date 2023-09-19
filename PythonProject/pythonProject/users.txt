@@ -1,0 +1,5 @@
+User_id;User_name;User_DoB;Role;Active;Basket;Order
+012901;Ahmad Hussam;19/1/2022;shopper;1;{012901:20,012903:2};0
+120356;Adam Nassan;20/1/2022;admin;1
+654655;Ahmad sami;19/1/2022;shopper;0;{012904:1,012905:3,012902:30};1
+334652;Laila;19/3/2022;shopper;0;{};0

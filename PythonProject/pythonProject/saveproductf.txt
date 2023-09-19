@@ -1,0 +1,54 @@
+Product ID: 012901
+Product Name: Orange Juice Bottles
+Product Category: Juice
+Inventory: 380
+Price: 3
+Supplier: JuiceComp
+Has an Offer: Yes
+Offer Price: 1
+Valid Until: 20/10/2023
+
+Product ID: 012902
+Product Name: Banana
+Product Category: fruit
+Inventory: 370
+Price: 5
+Supplier: VegFruitComp
+Has an Offer: No
+
+Product ID: 012903
+Product Name: Hp Laptop
+Product Category: Laptop
+Inventory: 244
+Price: 1500
+Supplier: Hp
+Has an Offer: Yes
+Offer Price: 1200
+Valid Until: 6/7/2023
+
+Product ID: 012904
+Product Name: LG Fridge
+Product Category: Fridge
+Inventory: 99
+Price: 1000
+Supplier: LG
+Has an Offer: Yes
+Offer Price: 750
+Valid Until: 22/1/2023
+
+Product ID: 012905
+Product Name: Iphone
+Product Category: Phone
+Inventory: 117
+Price: 2000
+Supplier: Apple
+Has an Offer: No
+
+Product ID: 123456
+Product Name: orange juice
+Product Category: juice
+Inventory: 30
+Price: 20.0
+Supplier: cappy
+Has an Offer: No
+
